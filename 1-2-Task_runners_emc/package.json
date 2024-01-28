@@ -1,0 +1,21 @@
+{
+  "name": "1-2-task_runners_emc",
+  "version": "1.0.0",
+  "description": "uso de task runners y sintaxis de ecmascript (emc)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx nodemon index.js"
+  },
+  "keywords": [
+    "emc",
+    "taskrunners"
+  ],
+  "author": "Jesús Quezada",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.3",
+    "picocolors": "^1.0.0"
+  }
+}
